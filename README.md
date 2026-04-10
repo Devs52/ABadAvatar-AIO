@@ -1,11 +1,15 @@
-🎮 Xbox 360 Bad Avatar AIO Package
 A complete drag-and-drop solution for the Bad Avatar exploit – includes legacy dashboards, stealth server, free game store, and more. No complicated setup required.
 
 📦 What's Included
+
 ABadAvatar – Exploit by Shutterbug2000
+
 xbGuard – Stealth server for online protection
+
 xbPirate – Free game store (by xbGuard)
+
 All legacy dashboards (NXE, Blades, Kinect, Metro V1/V2)
+
 Aurora – Installed but not set as default
 
 ⚠️ Some dashboards are currently non-functional. A patch is planned.
