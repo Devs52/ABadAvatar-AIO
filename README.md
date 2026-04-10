@@ -34,19 +34,28 @@ Default = Usb:\NXE\dash.xex      # NXE
 
 🧩 Dashboard Status
 Dashboard	Status
+
 NXE	✅ Connects to Xbox Live – Store is offline, but games load from Game Library
+
 Blades	⚠️ Boots but crashes occasionally – full testing pending
+
 Kinect	❌ Boots → error code
+
 Metro V1	❌ Boots → error code
+
 Metro V2	✅ Fully functional (default)
+
 🧰 Aurora
-Aurora is installed but not set as the default dashboard.
+
+Aurora is installed but not set as the default dashboard. 
 If you need it, launch Aurora manually via XeXMenu.
 
-📌 Games downloaded through xbPirate will appear in your Games section without Aurora.
+📌 Games downloaded through xbPirate will appear in your Games section without Aurora. 
 You must be signed into Xbox Live for the game store to appear.
 
 🙏 Credits
+
 Shutterbug2000 – ABadAvatar
+
 xbGuard Team – xbGuard & xbPirate
 
