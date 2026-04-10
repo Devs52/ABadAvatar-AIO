@@ -28,8 +28,8 @@ Edit launch.ini and change line 37 to point to your preferred dashboard.
 
 Example:
 
-ini
 Default = Usb:\Metro2\dash.xex   # Metro V2 (default)
+
 Default = Usb:\NXE\dash.xex      # NXE
 
 🧩 Dashboard Status
